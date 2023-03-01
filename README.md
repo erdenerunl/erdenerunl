@@ -16,6 +16,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="adampithewan" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/14723335/erdener-%c3%bcnal" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12282288" height="30" width="40" style="max-width: 100%;"></a>
+  <a href="https://medium.com/@erdener.unal" rel="nofollow"><img align="center" src="https://github.com/Medium/medium-logos/blob/master/03_Symbol/02_White/PNG/RGB/Medium-Symbol-White-RGB%401x.png" alt="12282288" height="30" width="40" style="max-width: 100%;"></a>
 </p>
  <br>
  
